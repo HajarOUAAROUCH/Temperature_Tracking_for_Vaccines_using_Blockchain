@@ -33,4 +33,12 @@ You need to install 3 liraries:
 
 Install Ganache software in your PC
 
+# Team of the Project:
+
+- Hajar OUAAROUCH - Wafa IDTNAIN - Ismail OUAFI - Ali NAIMI
+- National Institute of Posts and Telecommunications, INPT, Rabat, Morocco
+- Guided by: Pr. Meryem AYACHE
+- 2021/2022
+
+
 

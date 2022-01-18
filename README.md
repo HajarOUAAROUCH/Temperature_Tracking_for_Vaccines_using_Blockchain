@@ -9,13 +9,14 @@ node --version
 v14.16.0
 
 ## Use npm to install MQTT client library and Web3
-// create a new project
+// create a folder project and type in command line:
 npm init -y
 
 // Install dependencies
+
 npm install mqtt --save
 
-npm install web3
+npm install web3 // in the project repository
 
 # Smart Contract Repository
 
@@ -24,4 +25,12 @@ You can use Remix IDE to implement and deploy the smat contract. You will not ne
 # Hardware Repository
 
 You need to install 3 liraries:
-- EspMQTT
+- EspMQTTClient
+- DHT library
+- RFID library: MFRC522 module
+
+# Blockchain to interact with
+
+Install Ganache software in your PC
+
+

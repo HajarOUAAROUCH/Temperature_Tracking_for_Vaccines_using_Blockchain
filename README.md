@@ -29,7 +29,7 @@ You need to install 3 liraries:
 - DHT library
 - RFID library: MFRC522 module
 
-# Blockchain to interact with
+# Blockchain to interact with:
 
 Install Ganache software in your PC
 
@@ -40,5 +40,5 @@ Install Ganache software in your PC
 - Guided by: Pr. Meryem AYACHE
 - 2021/2022
 
- 
+
 
